@@ -4,3 +4,10 @@ for n in nums:
     if n % 2 != 0:
         break
     print(n)
+'''OUTPUT
+2
+4
+6
+
+
+'''
