@@ -13,7 +13,8 @@ print(f"{a} % {b} = {a % b}")
 print(f"{c} + {d} = {c + d}")
 print(f"{c} - {d} = {c - d}") 
 
-'''Arithmatic operators
+'''OUTPUT
+Arithmatic operators
 9 + 5 = 14
 {a} - {b} = {a - b}
 9 * 5 = 45
@@ -24,4 +25,5 @@ ERROR!
 Traceback (most recent call last):
   File "<main.py>", line 14, in <module>
   TypeError: unsupported operand type(s) for -: 'str' and 'str'''
+
 
