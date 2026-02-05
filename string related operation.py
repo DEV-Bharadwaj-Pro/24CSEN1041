@@ -11,3 +11,8 @@ print("upper()       ->", sample.upper())
 print("lower()       ->", sample.lower())
 words = sample.split()
 print("split() ->", words)
+
+only_letters = "Quantum"
+only_digits = "Physics123"
+print("'HelloWorld Quantum'.isalpha() ->", only_letters.isalpha())
+print("'Physics123'.isdigit() ->", only_digits.isdigit())
